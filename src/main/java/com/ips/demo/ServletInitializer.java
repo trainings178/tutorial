@@ -9,6 +9,7 @@ public class ServletInitializer extends SpringBootServletInitializer {
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
 		return application.sources(Tutorial1Application.class);
 	//feature 12
+		// feature 22
 	
 	}
 
