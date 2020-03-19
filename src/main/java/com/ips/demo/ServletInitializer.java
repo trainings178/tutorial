@@ -8,6 +8,8 @@ public class ServletInitializer extends SpringBootServletInitializer {
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
 		return application.sources(Tutorial1Application.class);
+	//feature 12
+	
 	}
 
 }
