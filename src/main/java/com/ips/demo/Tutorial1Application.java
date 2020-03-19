@@ -10,7 +10,7 @@ public class Tutorial1Application {
 		SpringApplication.run(Tutorial1Application.class, args);
 	
 	// new change
-		
+	asd	
 	}
 
 }
