@@ -9,15 +9,7 @@ public class Tutorial1Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Tutorial1Application.class, args);
 	
-	// new change
-		// new feature1
-		//new feature 2
-		// new feature 10
-		// new feature 13
-		// new feature 11
-		// new feature 3
-		//new feature 21
-		//new feature 23
+
 	}
 
 }
